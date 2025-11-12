@@ -1,5 +1,5 @@
 <script setup lang="ts"></script>
 
 <template>
-  <p>Vue + Vite</p>
+  <router-view />
 </template>
