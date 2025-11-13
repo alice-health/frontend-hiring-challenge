@@ -62,7 +62,6 @@ Se você está fazendo este desafio em um **live coding**:
    - Testar os comandos npm run build, npm run dev e npm run mock-api
 
 2. Estrutura base (10-15 min)
-   - Configurar rotas
    - Criar componentes base
    - Configurar chamadas à API
 
