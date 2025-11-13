@@ -1,6 +1,6 @@
-# 🏥 API Mock - Prontuário Eletrônico
+# 🏥 Frontend Tech Interview challenge
 
-API REST simulada para teste técnico de Engenheiro(a) de Software Frontend. Simula um sistema de prontuário eletrônico básico com listagem de pacientes e visualização de detalhes com linha do tempo de saúde.
+Teste técnico de Engenheiro(a) de Software Frontend.
 
 ## 📋 Índice
 
