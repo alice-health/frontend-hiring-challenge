@@ -1,7 +1,7 @@
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
-import PatientList from "./PatientList";
-import PatientDetails from "./PatientDetails";
+import PatientList from "@/PatientList";
+import PatientDetails from "@/PatientDetails";
 
 function App() {
   return (
